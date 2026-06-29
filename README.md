@@ -24,7 +24,15 @@ para gestion de libros, usuarios y prestamos
 - Patrón Singleton
 - Patrón Factory
 
-## Run
+## Iniciar Aplicacion
+
+Para iniciar la aplicacion, se debe ejecutar el archivo main.py
 
 ```bash
 python main.py
+```
+## Integrantes del grupo:
+
+-Blanco Lautaro Nicolas
+-Tomas Gracevich
+
